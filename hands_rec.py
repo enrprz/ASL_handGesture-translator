@@ -1,6 +1,6 @@
+# pylint: disable=E1101
 import cv2
 import sys
-
 video_cap = cv2.VideoCapture(0)
 img_count = 0
 
